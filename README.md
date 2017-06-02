@@ -5,6 +5,7 @@ In order to support SNIA Swordfish Plugfest, a Swordfish Docker image is publish
 The user can search and download this docker image **xuj10/emc_swordfish**, and run it in a Docker container.
 
 **NOTE:** Currently, the docker image **emc_swordfish** only support Linux platform because it bases on docker image **java**.
+Furthermore, you have to install docker engine in your Linux system before getting Swordfish docker image from Docker Hub.
 
 ## Where to get Swordfish Docker image
 ```
