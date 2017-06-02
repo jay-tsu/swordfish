@@ -6,13 +6,13 @@ The user can search and download this docker image **_emc_swordfish_**, and run 
 
 ## Where to get Swordfish Docker image
 ```
-docker search emc_swordfish
-docker pull emc_swordfish
+docker search xuj10/emc_swordfish
+docker pull xuj10/emc_swordfish
 ```
 
 ## Run Swordfish Web Servcie
  ```
-docker run -p 8080:8080 -t emc_swordfish
+docker run -p 8080:8080 -t xuj10/emc_swordfish
 ```
 
 ## URIs supported by Swordfish Docker Container
