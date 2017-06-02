@@ -2,7 +2,9 @@
 
 ## What Swordfish Docker Container is?
 In order to support SNIA Swordfish Plugfest, a Swordfish Docker image is published in Docker Hub by Dell/EMC MidRange Storage division.
-The user can search and download this docker image **_emc_swordfish_**, and run it in a Docker container.
+The user can search and download this docker image **xuj10/emc_swordfish**, and run it in a Docker container.
+
+**NOTE:** Currently, the docker image **emc_swordfish** only support Linux platform because it bases on docker image **java**.
 
 ## Where to get Swordfish Docker image
 ```
