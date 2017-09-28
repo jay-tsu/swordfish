@@ -1,4 +1,4 @@
-FROM java:8-jre-alpine
+FROM anapsix/alpine-java:latest
 
 ADD build/install/redfish/ /opt/redfish/
 
