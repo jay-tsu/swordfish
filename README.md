@@ -7,7 +7,7 @@ The user can search and download the docker image **xuj10/swordfish**, and then 
 
 ## Run Swordfish Web Servcie
  ```
-docker run -p 8080:8080 -t xuj10/swordfish
+docker run -p 8000:8000 -t xuj10/swordfish
 ```
 
 ## URIs supported by Swordfish Docker Container
